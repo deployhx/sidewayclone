@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deployhx/sidewayclone/static/css/main.1a77474f.css",
+    "main.js": "/deployhx/sidewayclone/static/js/main.0263d828.js",
+    "index.html": "/deployhx/sidewayclone/index.html",
+    "main.1a77474f.css.map": "/deployhx/sidewayclone/static/css/main.1a77474f.css.map",
+    "main.0263d828.js.map": "/deployhx/sidewayclone/static/js/main.0263d828.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a77474f.css",
+    "static/js/main.0263d828.js"
+  ]
+}
